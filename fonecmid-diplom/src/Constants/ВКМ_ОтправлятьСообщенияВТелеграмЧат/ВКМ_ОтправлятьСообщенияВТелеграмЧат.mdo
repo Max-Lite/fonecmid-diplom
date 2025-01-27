@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="90103c46-6fff-49ae-8887-65c0d95c5c39">
+  <producedTypes>
+    <managerType typeId="ce292502-f841-4aba-a58f-127659852ab8" valueTypeId="d41a3f11-5f8a-4615-b8b8-15282084dc2c"/>
+    <valueManagerType typeId="97b893b9-a0a7-46fe-95ce-99478e404151" valueTypeId="363b5ea7-ce0a-45af-aacb-4fa253768cd4"/>
+    <valueKeyType typeId="e299523d-58f6-4668-b7df-22930befdf0a" valueTypeId="438b35dd-5469-48d4-bff8-0de8e306a7f4"/>
+  </producedTypes>
+  <name>ВКМ_ОтправлятьСообщенияВТелеграмЧат</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отправлять сообщения в телеграм чат</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
