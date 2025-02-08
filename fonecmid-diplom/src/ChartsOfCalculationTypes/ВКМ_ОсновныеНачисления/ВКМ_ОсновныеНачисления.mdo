@@ -201,6 +201,7 @@
         <value>1</value>
       </code>
       <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
+      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</leading>
     </items>
     <items id="34b205d3-f1f1-447b-bf95-63b0e5b75890">
       <name>Отпуск</name>
@@ -209,8 +210,11 @@
         <value>2</value>
       </code>
       <base>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</base>
-      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ФиксированнаяПремия</base>
       <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Процент</base>
+      <base>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ФиксированнаяПремия</base>
+      <leading>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Оклад</leading>
+      <leading>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.Процент</leading>
+      <leading>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления.ФиксированнаяПремия</leading>
     </items>
   </predefined>
 </mdclass:ChartOfCalculationTypes>
